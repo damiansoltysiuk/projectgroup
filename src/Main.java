@@ -6,7 +6,7 @@ public class Main {
         System .out.println(multiplication*=j);
                 double i=5;
         double j=10;
-        double i*j
+        double i*j;
                 System.out.print("i*j");
 
     }
