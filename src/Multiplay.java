@@ -1,13 +1,5 @@
 public class Multiplay {
-    public static void main(String[] args) {
-        for (int i = 1; i <= 10; i++) {
-
-            for (int j = 1; j <= 10; j++) {
-
-                System.out.print(i * j + "\t");
-
-            }
-            System.out.print("\n");
-        }
+    public static double Multiplay(double a, double b){
+        return a*b;
     }
 }
