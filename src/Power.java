@@ -1,6 +1,6 @@
 public class Power {
 
-    public double MathPower(double podstawa, double wykładnik){
-        return Math.pow(podstawa, wykładnik);
+    public static double mathPower(double basis, double index){
+        return Math.pow(basis, index);
     }
 }
