@@ -1,9 +1,8 @@
 public class Sum {
 
-    double sum;
-    public double dodawanie(double a, double b)
+    public static double dodawanie(double a, double b)
     {
-        sum = a + b;
+        double sum = a + b;
         return sum;
     }
 }

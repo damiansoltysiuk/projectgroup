@@ -7,6 +7,7 @@ public class Main {
         System.out.println(Power.mathPower(20, -1));
 
         System.out.println(Multiplay.Multiplay(7,8));
+      
+        System.out.println(Sum.dodawanie(1.1, 2.2));
     }
 }
-
